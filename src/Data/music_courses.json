@@ -1,0 +1,64 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Full-Stack Web Development",
+      "slug": "full-stack-web-development",
+      "description": "Learn to build dynamic websites and applications with HTML, CSS, JavaScript, React, and Node.js.",
+      "price": 199.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "image": "/courses/full.jpg"
+    },
+    {
+      "id": 2,
+      "title": "UI/UX Design Mastery",
+      "slug": "ui-ux-design-mastery",
+      "description": "Master the principles of user interface and experience design using Figma and Adobe XD.",
+      "price": 149.99,
+      "instructor": "Jane Smith",
+      "isFeatured": true,
+      "image": "/courses/ux.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Data Science & Machine Learning",
+      "slug": "data-science-machine-learning",
+      "description": "Learn data analysis, Python, and machine learning algorithms to build intelligent systems.",
+      "price": 249.99,
+      "instructor": "Dr. Robert Lee",
+      "isFeatured": true,
+      "image": "/courses/database.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Digital Marketing Essentials",
+      "slug": "digital-marketing-essentials",
+      "description": "Explore SEO, social media marketing, and Google Ads to grow businesses online.",
+      "price": 129.99,
+      "instructor": "Mike Brown",
+      "isFeatured": true,
+      "image": "/courses/digital.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Cybersecurity Fundamentals",
+      "slug": "cybersecurity-fundamentals",
+      "description": "Learn ethical hacking, network security, and cyber threat prevention techniques.",
+      "price": 179.99,
+      "instructor": "Chris Davis",
+      "isFeatured": true,
+      "image": "/courses/cyber.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Cloud Computing & DevOps",
+      "slug": "cloud-computing-devops",
+      "description": "Understand cloud technologies like AWS, Azure, and DevOps automation for modern IT solutions.",
+      "price": 199.99,
+      "instructor": "Alex Wilson",
+      "isFeatured": true,
+      "image": "/courses/cloud.jpg"
+    }
+  ]
+}
