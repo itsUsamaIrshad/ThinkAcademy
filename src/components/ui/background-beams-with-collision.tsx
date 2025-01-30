@@ -79,7 +79,7 @@ export const BackgroundBeamsWithCollision = ({
           key={beam.initialX + "beam-idx"}
           beamOptions={beam}
           
-          containerRef={containerRef}
+         
           parentRef={parentRef}
         />
       ))}
